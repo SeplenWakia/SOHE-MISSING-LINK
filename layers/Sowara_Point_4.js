@@ -1,0 +1,1 @@
+var json_Sowara_Point_4 = {"type":"FeatureCollection","name":"Sowara_Point_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"Sowara point"},"geometry":{"type":"Point","coordinates":[147.725708372529482,-7.943714669922455]}}]}

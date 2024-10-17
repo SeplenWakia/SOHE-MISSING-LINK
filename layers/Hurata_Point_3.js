@@ -1,0 +1,1 @@
+var json_Hurata_Point_3 = {"type":"FeatureCollection","name":"Hurata_Point_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"0","Name":"Hurata Point"},"geometry":{"type":"Point","coordinates":[147.999431015671945,-8.62915115053301]}}]}

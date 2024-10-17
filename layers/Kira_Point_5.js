@@ -1,0 +1,1 @@
+var json_Kira_Point_5 = {"type":"FeatureCollection","name":"Kira_Point_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"0"},"geometry":{"type":"Point","coordinates":[147.335668440637448,-8.064134695610228]}}]}
